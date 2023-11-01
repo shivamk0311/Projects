@@ -1,0 +1,34 @@
+MyLibrary
+4
+publication
+The Psychology of Money
+Morgan Housel
+2020
+checked in
+publication
+Rich Dad Poor Dad
+Robert Kiyosaki
+1997
+checked out
+Shivam
+shivam@uta.edu
+2023-11-16
+video
+Unearthed
+Charles Cassady
+2023
+checked in
+16
+video
+Mickey Hardaway
+Marcellus Cox
+2023
+checked in
+104
+3
+Shivam
+shivam@uta.edu
+Jack
+jack@yahoo.com
+David
+david23@gmail.com
