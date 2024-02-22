@@ -11,13 +11,6 @@ Welcome to Shivam's Projects Repository! This repository serves as a showcase of
   - Efficient book tracking with functionalities for check-in/out, issuance of library cards, and data persistence using file handling.
 - **GitHub Link:** [Library Management System](https://github.com/shivamk0311/Library-Management-System)
 
-### E-Commerce Website (High School Project)
-
-- **Description:** Developed a dynamic e-commerce website during high school utilizing HTML, CSS, and JavaScript to create an engaging user experience.
-- **Features:**
-  - Interactive product listings, shopping cart functionality, and a seamless checkout process.
-- **GitHub Link:** [E-Commerce Website](https://github.com/shivamk0311/E-Commerce-Website)
-
 ## Technologies Used
 
 - Java
