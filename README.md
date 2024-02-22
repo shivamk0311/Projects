@@ -14,9 +14,7 @@ Welcome to Shivam's Projects Repository! This repository serves as a showcase of
 ## Technologies Used
 
 - Java
-- HTML
-- CSS
-- JavaScript
+- JavaDoc
 
  ## How to Use
 
