@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shivam's Projects Repository
 
 Welcome to Shivam's Projects Repository! This repository serves as a showcase of my diverse range of projects, reflecting my passion for software development and continual learning. Below, you'll find details about each project along with the technologies used and how to explore them further.
@@ -23,3 +24,13 @@ Contributions, feedback, and suggestions are always appreciated! If you have any
 
 
 
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 25429bb (initial)
