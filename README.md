@@ -16,13 +16,6 @@ Welcome to Shivam's Projects Repository! This repository serves as a showcase of
 - Java
 - JavaDoc
 
- ## How to Use
-
-1. Clone the repository to your local machine: git clone https://github.com/shivamk0311/Projects.git
-2. Navigate to the project directory of your choice.
-3. Explore the project files and directories.
-4. Follow the instructions provided in each project's README for running or contributing.
-
 ## Contributing
 
 Contributions, feedback, and suggestions are always appreciated! If you have any ideas for improvement or new project concepts, feel free to open an issue or submit a pull request.
