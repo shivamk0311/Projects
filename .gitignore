@@ -154,3 +154,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 >>>>>>> 3bdda99 (Initial commit)
+
+spotify_clone/node_modules/
+spotify_clone/dist/
+spotify_clone/.env
+
